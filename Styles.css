@@ -1,0 +1,7 @@
+/*
+@link http://stackoverflow.com/questions/24681575/tinymce-4-x-editor-windowmanager-open-autoscroll-and-overflow-issue
+*/
+
+.mce-scriptura-panel {
+	position: absolute !important;
+}
